@@ -37,9 +37,6 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 
 
-
-## Authors
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
